@@ -7,16 +7,12 @@ function generateMarkdown2(answer) {
   ${answer.Description}
   
   ## Table of contents
-      
-  [**Installation**](#Installation)
-  
-  [**Usage**](#Usage) 
-  
-  [**Test**](#Test)
-  
-  **License: ${answer.license}**
-  
-  [**Questions**](#Questions)
+
+  * [**Installation**](#Installation)
+  * [**Usage**](#Usage) 
+  * [**Test**](#Test)
+  * **License: ${answer.license}**
+  * [**Questions**](#Questions)
       
   
   ## Installation
@@ -32,8 +28,14 @@ function generateMarkdown2(answer) {
   GitHub username: [${answer.gitHub}](https://github.com/${answer.gitHub}) 
   
   email address:[${answer.email}](${answer.email})
+
   
   `;
 }
 
 module.exports = generateMarkdown2;
+
+
+// \`\`\`\
+
+// \`\`\`\
