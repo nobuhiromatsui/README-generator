@@ -38,9 +38,13 @@ Once you answered the questions, READMe file will be generated in the folder whe
   
   ## Test
 
-  ![Image of terminal](https://github.com/nobuhiromatsui/README-generator/Develop/images/READme1.png)
-  ![Image of terminal](https://github.com/nobuhiromatsui/README-generator/Develop/images/READme2.png)
-  ![Image of terminal](https://github.com/nobuhiromatsui/README-generator/Develop/images/READme3.png)
+  ![Image of terminal](https://nobuhiromatsui.github.io/README-generator/Develop/images/READme1.png)
+  Type Node index2.js in command line like above
+  
+  ![Image of terminal](https://nobuhiromatsui.github.io/README-generator/Develop/images/READme2.png)
+  ![Image of terminal](https://nobuhiromatsui.github.io/README-generator/Develop/images/READme3.png)
+
+
 
   
 
